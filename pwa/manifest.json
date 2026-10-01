@@ -1,0 +1,25 @@
+{
+  "name": "Zoe 休息提醒",
+  "short_name": "Zoe提醒",
+  "description": "屏幕前工作者的健康伴侣 — 定时全屏视频休息提醒",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%230a1628'/><text x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-size='100' fill='%2360a5fa'>Z</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%230a1628'/><text x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-size='280' fill='%2360a5fa'>Z</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle", "utilities"]
+}
